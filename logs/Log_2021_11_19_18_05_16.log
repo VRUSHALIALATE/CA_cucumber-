@@ -1,0 +1,17 @@
+2021-11-19 17:18:20,273  INFO [main] HomePageSD:29 - Browser has been luanched
+2021-11-19 17:18:27,399  INFO [main] HomePageSD:38 - url hited
+2021-11-19 17:18:31,435  INFO [main] SignInSD:34 - clicked on sign button
+2021-11-19 17:18:31,437  INFO [main] SignInSD:42 - going to send data
+2021-11-19 17:18:31,715  INFO [main] SignInSD:46 -  entered
+2021-11-19 17:18:31,841  INFO [main] SignInSD:49 -  entered
+2021-11-19 17:18:36,844  INFO [main] SignInSD:57 - clicked on summit button
+2021-11-19 17:18:40,020  INFO [main] SignInSD:34 - clicked on sign button
+2021-11-19 17:18:40,021  INFO [main] SignInSD:42 - going to send data
+2021-11-19 17:18:40,934  INFO [main] SignInSD:46 - defenceaspirants87@gmail.com entered
+2021-11-19 17:18:41,137  INFO [main] SignInSD:49 - Banti#4321 entered
+2021-11-19 17:18:41,430  INFO [main] SignInSD:57 - clicked on summit button
+2021-11-19 17:18:45,500  INFO [main] SignInSD:34 - clicked on sign button
+2021-11-19 17:18:45,501  INFO [main] SignInSD:42 - going to send data
+2021-11-19 17:18:46,393  INFO [main] SignInSD:46 - rathorb87@gmail.com entered
+2021-11-19 17:18:46,603  INFO [main] SignInSD:49 - Bigsmall@123 entered
+2021-11-19 17:18:46,821  INFO [main] SignInSD:57 - clicked on summit button
